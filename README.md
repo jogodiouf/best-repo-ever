@@ -12,4 +12,4 @@ A good README explains what the project is and how to use it. It usually include
 
 **Technologies Used:** Is it built with Python, React, or C++?
 
-**License:** Can others legally use or change your code?
+What does the .md stand for?
